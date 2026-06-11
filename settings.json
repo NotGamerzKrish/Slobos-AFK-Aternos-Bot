@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "ServerBot",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "KrishDiamondSMP.aternos.me:32840",
