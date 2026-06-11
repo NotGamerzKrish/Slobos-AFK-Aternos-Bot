@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "KrishDiamondSMP.aternos.me:32840",
+    "ip": "KrishDiamondSMP.aternos.me",
     "port": 32840,
     "version": "",
     "try-creative": false
